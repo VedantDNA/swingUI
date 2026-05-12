@@ -1,4 +1,5 @@
-Hello Therer 
-These are my notes !!!
-This is coming from BufferWriter
-We have a test today
+Hello World!
+This is a test file for my Java Final.
+Java Swing is fun.
+12345
+Goodbye!

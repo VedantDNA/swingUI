@@ -1,0 +1,4 @@
+This is the Beginning of a Journey to the depths of the Appalachian Mountains. 
+It was dense with fauna, misty as fuck and swampy as shit. 
+Line 1: Buffered Writer is Faster
+Line 2: This is after using buffWriter.newLine() to start on a New Line
